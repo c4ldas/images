@@ -1,2 +1,2 @@
 # images
-Icons for twitch.tv/bibitv overlay
+Icons for twitch.tv/bibitv camera overlay
